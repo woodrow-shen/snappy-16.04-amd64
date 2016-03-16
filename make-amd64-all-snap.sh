@@ -2,10 +2,14 @@
 
 set -e
 
-sudo ./ubuntu-device-flash --verbose core rolling \
-	-o amd64-all-snap.img \
-	--channel edge \
-	--developer-mode \
-	--gadget canonical-pc.canonical \
+TODAY=$(date +%Y%m%d)
+MINOR_RELEASE=$1
+
+./ubuntu-device-flash core rolling \
+	--channel stable \
+	--size 4 \
 	--kernel canonical-pc-linux.canonical \
-	--os ubuntu-core.canonical
+	--os ubuntu-core.canonical \
+	--gadget canonical-pc.canonical \
+	--install webdm \
+	--enable-ssh -o havasu-$TODAY-$MINOR_RELEASE.img
