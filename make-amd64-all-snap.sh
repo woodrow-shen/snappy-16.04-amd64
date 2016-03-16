@@ -2,7 +2,7 @@
 
 set -e
 
-sudo ./ubuntu-device-flash --verbose core rolling \
+./ubuntu-device-flash --verbose core rolling \
 	-o amd64-all-snap.img \
 	--channel edge \
 	--developer-mode \
