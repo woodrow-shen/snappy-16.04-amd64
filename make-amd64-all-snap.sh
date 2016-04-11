@@ -3,9 +3,11 @@
 set -e
 
 ./ubuntu-device-flash --verbose core rolling \
-	-o amd64-all-snap.img \
-	--channel edge \
-	--developer-mode \
-	--gadget canonical-pc.canonical \
+	--channel stable \
+	--size 4 \
+	--enable-ssh \
+	--install webdm \
+	--gadget canonical-i386.canonical \
 	--kernel canonical-pc-linux.canonical \
-	--os ubuntu-core.canonical
+	--os ubuntu-core.canonical \
+	-o amd64-all-snap.img
