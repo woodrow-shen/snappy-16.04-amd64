@@ -7,7 +7,7 @@ set -e
 	--size 4 \
 	--enable-ssh \
 	--install webdm \
-	--gadget canonical-i386.canonical \
+	--gadget canonical-pc.canonical \
 	--kernel canonical-pc-linux.canonical \
 	--os ubuntu-core.canonical \
 	-o amd64-all-snap.img
