@@ -2,12 +2,12 @@
 
 set -e
 
-./ubuntu-device-flash --verbose core rolling \
+./ubuntu-device-flash --verbose core 16 \
 	--channel stable \
 	--size 4 \
 	--enable-ssh \
-	--install webdm \
-	--gadget canonical-pc.canonical \
-	--kernel canonical-pc-linux.canonical \
-	--os ubuntu-core.canonical \
+	--gadget canonical-pc \
+	--kernel canonical-pc-linux \
+	--os ubuntu-core \
 	-o amd64-all-snap.img
+#    --install webdm \
