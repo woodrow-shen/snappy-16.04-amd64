@@ -2,7 +2,7 @@
 amd64_kernel_snap_source=https://public.apps.ubuntu.com/anon/download-snap/SkKeDk2PRgBrX89DdgULk3pyY5DJo6Jk_24.snap
 amd64_kernel_snap_file=$(basename $amd64_kernel_snap_source)
 
-rm *.snap
+rm canonical-pc-linux*.snap
 rm kernel-snap -rf
 
 cwd=$(pwd)
@@ -43,7 +43,7 @@ find . -name mmc_block.ko -exec cp '{}' initrd/$kern_ver/kernel/drivers/mmc \;
 find . -name sdhci.ko -exec cp '{}' initrd/$kern_ver/kernel/drivers/mmc \;
 find . -name sdhci-acpi.ko -exec cp '{}' initrd/$kern_ver/kernel/drivers/mmc \; 
 
-cd initrd && find . | cpio --quiet -o -H newc  | lzma > ../${initrd}-new
+cd initrd && find . | cpio --quiet -o -H newc  | lzma > ../${initrd}
 cd ${cwd} && snapcraft snap kernel-snap/
 
 rm temp -rf
