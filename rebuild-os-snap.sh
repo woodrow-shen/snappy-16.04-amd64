@@ -13,11 +13,9 @@ if [ ! -f ubuntu-core.snap ] ; then
 fi
 mkdir temp ubuntu-core
 sudo mount ubuntu-core.snap temp
-sudo cp temp/* ubuntu-core -r
+sudo cp temp/* ubuntu-core -rp
 sync
 sudo umount temp
-
-sudo chown core-taipei:core-taipei ubuntu-core -R
 
 # network-manager
 cp /etc/dbus-1/system.d/org.freedesktop.NetworkManager.conf ubuntu-core/etc/dbus-1/system.d/
