@@ -1,5 +1,5 @@
 #!/bin/sh
-amd64_kernel_snap_source=https://public.apps.ubuntu.com/anon/download-snap/SkKeDk2PRgBrX89DdgULk3pyY5DJo6Jk_24.snap
+amd64_kernel_snap_source=https://public.apps.ubuntu.com/anon/download-snap/SkKeDk2PRgBrX89DdgULk3pyY5DJo6Jk_30.snap
 amd64_kernel_snap_file=$(basename $amd64_kernel_snap_source)
 
 rm canonical-pc-linux*.snap
