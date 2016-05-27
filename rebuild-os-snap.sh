@@ -23,12 +23,6 @@ cp /etc/dbus-1/system.d/org.freedesktop.NetworkManager.conf ubuntu-core/etc/dbus
 # bluez
 cp /etc/dbus-1/system.d/bluetooth.conf ubuntu-core/etc/dbus-1/system.d/
 
-# alsa
-cp /usr/share/alsa ubuntu-core/usr/share/ -r
-
-# pulseaudio 
-cp /usr/share/pulseaudio ubuntu-core/usr/share/ -r
-
 cd ${cwd} && snapcraft snap ubuntu-core/
 
 rm temp -rf
