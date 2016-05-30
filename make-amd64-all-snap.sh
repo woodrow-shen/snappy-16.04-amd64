@@ -16,5 +16,5 @@ fi
 	--gadget canonical-pc \
 	--kernel canonical-pc-linux \
 	--os ubuntu-core \
+    --install webdm \
 	-o havasu-$TODAY-$MINOR_RELEASE.img
-    #--install webdm \
