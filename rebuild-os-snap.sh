@@ -1,5 +1,5 @@
 #!/bin/sh
-amd64_os_snap_source=https://public.apps.ubuntu.com/anon/download-snap/b8X2psL1ryVrPt5WEmpYiqfr5emixTd7_115.snap
+amd64_os_snap_source=https://public.apps.ubuntu.com/anon/download-snap/b8X2psL1ryVrPt5WEmpYiqfr5emixTd7_138.snap
 amd64_os_snap_file=$(basename $amd64_os_snap_source)
 
 rm ubuntu-core*.snap

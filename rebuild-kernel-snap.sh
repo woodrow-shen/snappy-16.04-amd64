@@ -3,6 +3,7 @@ amd64_kernel_snap_source=https://public.apps.ubuntu.com/anon/download-snap/SkKeD
 amd64_kernel_snap_file=$(basename $amd64_kernel_snap_source)
 
 rm canonical-pc-linux*.snap
+rm temp -rf
 rm kernel-snap -rf
 
 cwd=$(pwd)
