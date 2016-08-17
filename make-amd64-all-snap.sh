@@ -13,9 +13,8 @@ fi
 	--channel $CHANNEL \
 	--size 4 \
 	--enable-ssh \
-	--gadget canonical-pc \
-	--kernel canonical-pc-linux_4.4.0-23+20160518.15-43_amd64.snap \
+	--gadget pc \
+	--kernel pc-kernel_4.4.0-35-1_amd64.snap \
 	--os ubuntu-core \
-    --install webdm \
+    --install snapweb \
 	-o havasu-$TODAY-$MINOR_RELEASE.img
-	#--kernel canonical-pc-linux \
