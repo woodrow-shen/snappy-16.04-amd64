@@ -1,0 +1,22 @@
+type: model
+authority-id: dell
+series: 16
+brand-id: dell
+model: stlouis
+architecture: amd64
+gadget: stlouis
+kernel: stlouis-kernel
+store: AiZ4ogoh1ohphaod6ca3
+timestamp: 2016-11-04T00:00:00.0Z
+sign-key-sha3-384: e1y81N1FaFUeiJw2YsVqEvF-UpqZJi4JhDvwMpkuFYl1nkRH6vJ8myZxpg43XJK_
+
+AcLBXAQAAQoABgUCWBz33QAKCRCEk+/ag7OFmVabEACM0ekQgJOTEkRhquOnhrrMcsY+pF04wido
+8wcKt/cwqtYq0ukICxGchAet90mFE0FNl95Ysz6JFzSO4s21CeuHh54shuPN+BIdEGgjq5QqDarG
++c3HGvaEjMCk7n0utIig/92nCOZ51el4E9D9AsyZHrnRW4OeMLsdEL9e7TJ/CYmrgvhv0GVGNuvi
+ct2lkNBIbTp8wtlaDtTWAd0t1EQ8nhmlR7wdTzcPUvsg/KkwRU3waSy75v4TeUKMzjJC568jot8Q
+76LNVhJJaGFt4+KZYPYZeI082SJuA1fMpy3VOjOEWmcngw/sN26VCsAtl6w0LP0KmkXjeVwbAi2T
+Jov5XRI4Tx4/PA0FZx4O3ceCz2ZfbRTdDzNBB5SSYibhU9RP0kYS+x0LxTEQOS9YrQAt8vg3Fax7
+FSkK4ko2nZcYjF5336K60oJoI9ADJzBCDnyHx1oy4WI/mVQ8XEAz/dnmZ8W1QQZBG+7NesxiwhCO
+e2/GAFlxncj4OeTJmcrXX3vEfJBu5iOJqkaum3pmJgNFd73XhfWatN4Djd35IMkn3790ToAgvF59
+Lfn0gzET1lI5kZxjpBK5XpUKxJhrvL99MHH0z6gR+FKqbkHMOjdCshkbj35UIoW0RB68H/Hr7uqy
+opgKm2XD+oybvUg+wKikcuBUMmEiGRnDxuy05RoTRg==

@@ -1,0 +1,22 @@
+type: model
+authority-id: planotesting
+series: 16
+brand-id: planotesting
+model: stlouis
+architecture: amd64
+gadget: stlouis
+kernel: stlouis-kernel
+store: AiZ4ogoh1ohphaod6ca3
+timestamp: 2016-10-25T08:27:36+00:00
+sign-key-sha3-384: zEqkttB18cDkrZ4tjMAZMiCxtgpmmMwlu5K-kOgRm8aeuUzFHhl_aMjnahotttNs
+
+AcLBXAQAAQoABgUCWBBZigAKCRAL5zd4yrajzaspEADG3jxGguyTUhCxeZ623sCf2gq9UPMT2Tpf
+y3NUU5rLiqeB4bowOWU06RUANm2n2lf2jS4dWKDzSsyj6JqGYysxlGy/ihspniICv5gg03rTM9iR
+/4fNrN7wJ7lqjiQ4l2qRYNKmoHTPGjAKp7ksLj5vRPTrq1b0p/j2PmXJtkwsub7QJH88bbCrNYTW
+vdCbvNQ6/Ta4AzXNK2lTgfMmvlCXF8xpnEafEwVKGK8BkH6g2POePt8AZdZdlvbOorLeXvhBr4J/
+m/FiGHIjAKqJI3DzeIyzuHkuX4eRyi0uW6ZWZTnpjnCUHqmNlOP3ilT4UfHrwAh4eRdUpYS4UoB9
+9vMroewTPm1BP+gQjw4PVzrXeBgd+ofNMrQ3UvcZ3cfG+Wo98PpEBLIb2T/agxwo8RxiJMeJtcXU
+m596aQYpYuxYJUq8nbdMRPuJaGzzMTXoVCQcTNpfNV6mzGXxIF1b9qmpqsHlMx1SAbJi6XZm59JF
+r4llm1SH+6AF8nUUKRLtjYOpyojhWJIoTiQQdhPMK/iXddo1KNUQLnNHyBAnAS1FDgAz1eLeQ5aw
+Z97C0p8/rVd7YTkXCiH2X+FI41uXIFkPxgiCQL50uEpk5ZrmxA7V7Sr2AKDnIHieOSHFC0xXdrCi
+7Km2Tte4bnxnmOgzKrDgGrBbTYWFFkI9JWpl1+qCwQ==

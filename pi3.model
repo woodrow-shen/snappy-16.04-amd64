@@ -1,0 +1,21 @@
+type: model
+authority-id: AqLgbSaepTg57BAPobUpyCMFrLZnztRF
+series: 16
+brand-id: AqLgbSaepTg57BAPobUpyCMFrLZnztRF
+model: pi3
+architecture: armhf
+gadget: pi3
+kernel: pi2-kernel
+timestamp: 2016-10-27T06:10:52+00:00
+sign-key-sha3-384: uXSVd_Y3j_2KzqlC5GDKsfEyWp3VqV9bAcGflZRXy3qVTb_Z2Lpo5nEEVfMixduS
+
+AcLBXAQAAQoABgUCWBGbZQAKCRB0K5BMi75Ad5r2D/9Sz4XKCLMmaUtEl6J7mDwyte6CRLkzTumO
+ywqrM961zrwcdqucdEw8zintswdo+qq6P7wViG9Lboa35s0U1Qy2FydojHzTzNLZfvvNxgTbMzLZ
+m/qCXB0OnCPHJcpg0t98oPp3TfOeLjxFTVeNYe+MNd7VNKfLZd+VrGvupZZKtqTnqQ4liKJgXuao
+b4wYjiLVkj5+W2j1kkrGxit4o6x6ttVnv+uCagK+8NzE51qB5s4lHUCp2CFwYWoRhRGTddnVItPz
+ME7Ia93nTFdz4MbaQc6IfB3LFw6w85aIwgDkvVtDE+C8Y8GI2KLgDZAslTHuw/WvQ//8IAPmYgeV
+2xrSBcjFgj+4g75RIiipTLEvBgD+WGQda6WtrJn1vrlOdXtpzS7G36RGpI2ob8CG2rj93BRAa7jE
+zfP9InB38aSGntTmAHJUJff/vzr1yV7LJXaQjidRzIEDFhxxU5T2yUGRFCm+CX+jbZzO/QdpyuUl
+ihAvAsIA2x0Ztb6eyrYSQTi4vXMcEWgG+7RsbJ1IuXrslA/HE+n/opfd7zhkXY8N9fWfT9FNfTJP
+OlkjUB+1wHc76yiGNsdG1woTKo8+fDQK5VOz4c0L6opxhVKESjwSWPpvNFLQIWXWBQRd1ajtBV6t
+rkMKYLXq7M2wP1O9gkY/nBsxnMRHvXWo8TMtIM7+2w==
